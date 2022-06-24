@@ -4,8 +4,10 @@
 out
 gen
 ### Go template
-# Binaries for programs and plugins
+# Executables
 main
+test
+# Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
